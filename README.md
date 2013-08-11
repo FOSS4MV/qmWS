@@ -1,15 +1,5 @@
-  The software for an article in International Spectrum Magazine 2012 about REST and WEB using openqm.
+  This software was for an article in International Spectrum Magazine 2012 about REST and WEB using openqm.
   Date: 21 March 2012, Abingdon, England
-
-  Copyright (c) 2010 TO 2012 to 2008 mike.ryder@pwchest.com, All Rights Reserved
-  This program suite is free software; you can redistribute it and/or modify
-  it under the terms of the GNU General Public License as published by
-  the Free Software Foundation; either version 2, or (at your option)
-  any later version.
-  This program suite is distributed in the hope that it will be useful,
-  but WITHOUT ANY WARRANTY; without even the implied warranty of
-  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-  GNU General Public License for more details.
 
   The code included in this package was written to demonstrate the REST capability of openqm
   and should not be taken as a definitive way of coding or operation.
